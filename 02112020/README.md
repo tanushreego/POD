@@ -1,4 +1,4 @@
-2nov2020
+CHICKEN PROBLEM
 ========
 
 In a small poultry farm there are three enclosures. There are odd number of chickens in the farm and each enclosure can contain odd number of chickens only. Second enclosure is larger than the first enclosure and third enclosure is larger than the second enclosure. Given the total number of chickens ‘n’ in the poultry farm and the minimum number of chickens that can be put in the first enclosure, ‘m’, write a code to print all possible ways in which the chickens can be kept.
